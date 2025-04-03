@@ -6,7 +6,7 @@ The key concept of my adaptation is to translate the essence of *Psych*, particu
 
 The adaptation closely follows the events of the pilot episode, where Shawn, a hyper-observant civilian, convinces the Santa Barbara Police Department that he is a psychic to avoid suspicion and secure consulting work. While the general narrative structure remains the same, minor changes are made to enhance the gameplay experience. For instance, Juliet “Jules” O’Hara, a character introduced later in the show, will be present in this game to add an additional dynamic to police interactions. Additionally, Lassiter’s original partner from the pilot will be included in the beginning before being written out, keeping in line with the show’s canon while expanding on its storytelling possibilities.
 
-The gameplay mirrors Shawn’s unconventional crime-solving techniques. Players take on the role of Shawn Spencer, using his sharp observational skills to gather clues, interrogate suspects, and manipulate conversations to uncover the truth. Gus plays a vital role as a supportive sidekick, offering insights and comedic banter, ensuring the game captures the heart of the Shawn-Gus friendship that defines *Psych*.
+The gameplay mirrors Shawn’s unconventional crime-solving techniques. Players take on the role of Shawn Spencer, using his sharp observational skills to gather clues, interrogate suspects, and manipulate conversations to uncover the truth. Gus plays a vital role as a supportive partner, offering insights and comedic banter, ensuring the game captures the heart of the Shawn-Gus friendship that defines *Psych*.
 
 ## Mechanics and Gameplay Elements
 
