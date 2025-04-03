@@ -1,0 +1,33 @@
+2025-04-03 18:16:15 UTC
+macOS-10.16-x86_64-i386-64bit
+Ren'Py 8.3.7.25031702
+
+Early init took 0.18s
+Loading error handling took 0.31s
+Loading script took 10.04s
+Loading save slot metadata took 1.67s
+Loading persistent took 0.00s
+ - Init at renpy/common/00steam.rpy:845 took 0.47211 s.
+ - Init at game/gui.rpy:11 took 0.90385 s.
+ - Init at renpy/common/00library.rpy:456 took 1.26685 s.
+Running init code took 2.85s
+Loading analysis data took 0.00s
+Analyze and compile ATL took 0.37s
+Reloading save slot metadata took 0.34s
+Index archives took 0.00s
+Backing up script files to '/Users/ericmalla/Library/RenPy/backups/Psych':
+Dump and make backups took 0.79s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.38s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.04s
+Load screen analysis took 0.00s
+Analyze screens took 0.56s
+Save screen analysis took 0.29s
+Prepare screens took 1.61s
+Save pyanalysis. took 0.10s
+Save bytecode. took 0.20s

@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 26: show statement expects a non-empty block.
+    show shawn laidback: zoom 0.5
+                        ^
+
+File "game/script.rpy", line 32: show statement expects a non-empty block.
+    show lassie serious at left: zoom 0.5
+                                ^
+
+File "game/script.rpy", line 33: show statement expects a non-empty block.
+    show barry serious at right: zoom 0.5
+                                ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Thu Apr  3 12:46:11 2025
